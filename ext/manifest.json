@@ -12,7 +12,7 @@
     "128": "images/icon_128.png"
   },
 
-  "background_page": "background.html",
+  "//": "background_page: background.html",
   "options_page": "options.html",
 
   "browser_action": {
