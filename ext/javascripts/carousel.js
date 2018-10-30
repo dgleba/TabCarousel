@@ -11,11 +11,11 @@ var carousel = (function () {
   /** @constant */
   ns.defaults = {
     /** Interval between tabs, in ms. */
-    flipWait_ms: 15 * 1000,
+    flipWait_ms: 16 * 1000,
     /** Interval between reloading a tab, in ms.  Let's not kill other people's servers with automated requests. */
-    reloadWait_ms: 5 * 60 * 1000,
+    reloadWait_ms: 31 * 60 * 1000,
     /** Pause when active? */
-    pauseWhenActive: true
+    pauseWhenActive: false
   };
 
   /** English-language tutorial text for first run. */

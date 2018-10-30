@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
 
-  "name": "TabCarousel",
-  "version": "0.5.3",
+  "name": "TabCarousel(DG)",
+  "version": "0.1.45322",
 
-  "description": "Cycle through your Chrome tabs automatically.  Great for monitoring information on a TV with a computer attached.",
-  "homepage_url": "http://github.com/benjaminoakes/TabCarousel",
+  "description": "Cycle through your Chrome tabs automatically.  Great for monitoring information on a TV with a computer attached. Forked from http://github.com/benjaminoakes/TabCarousel",
+  "homepage_url": "http://github.com/dgleba/TabCarousel",
 
   "icons": {
     "16": "images/icon_16.png",
